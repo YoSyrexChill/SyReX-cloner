@@ -9,7 +9,7 @@ To set up the environment and run the project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-repo/ryzex-py.git
+   git clone https://github.com/ryzexpy/ryzex-cloner
    cd ryzex-py
    ```
 
@@ -48,7 +48,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 1. **Fork the Repository**
 
    ```bash
-   git fork https://github.com/your-repo/ryzex-py.git
+   git fork https://github.com/ryzexpy/ryzex-cloner
    ```
 
 2. **Create a New Branch**
