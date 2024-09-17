@@ -1,6 +1,6 @@
-# RYZEX.PY
+# SyReX-Flooder
 
-Welcome to the **RYZEX.PY** project! This project is for cloning Discord Servers!. Follow the instructions below to get started.
+Welcome to the **Syrex-cloner** project!This project is for cloning Discord Servers!. Follow the instructions below to get started.
 
 ## Installation
 
