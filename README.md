@@ -38,9 +38,3 @@ Once you've installed the dependencies and run the script, you can start utilizi
 If you encounter any issues or have questions, feel free to reach out:
 
 - **Discord:** [ryzex.py](https://discord.com/users/1071100333088051220) (User ID: 1071100333088051220)
-  
-
-
-5. **Open a Pull Request**
-
-   Go to the repository on GitHub and open a pull request.
