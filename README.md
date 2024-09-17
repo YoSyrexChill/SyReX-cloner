@@ -39,35 +39,7 @@ If you encounter any issues or have questions, feel free to reach out:
 
 - **Discord:** [ryzex.py](https://discord.com/users/1071100333088051220) (User ID: 1071100333088051220)
   
-- **GitHub Issues:** [Open an issue](https://github.com/your-repo/ryzex-py/issues)
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you'd like to change.
-
-1. **Fork the Repository**
-
-   ```bash
-   git fork https://github.com/ryzexpy/ryzex-cloner
-   ```
-
-2. **Create a New Branch**
-
-   ```bash
-   git checkout -b feature-branch
-   ```
-
-3. **Commit Your Changes**
-
-   ```bash
-   git commit -m "Add new feature"
-   ```
-
-4. **Push to Your Branch**
-
-   ```bash
-   git push origin feature-branch
-   ```
 
 5. **Open a Pull Request**
 
